@@ -1,0 +1,3 @@
+roslaunch gazebo_robot lab4.launch 
+roslaunch lab4 moveit_planning_execution.launch 
+rosrun laboratory_4 rectangle 
