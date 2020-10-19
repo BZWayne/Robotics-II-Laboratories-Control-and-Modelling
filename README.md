@@ -6,3 +6,5 @@
 ###  Video: https://youtu.be/p1_O0pkDCjo
 ## Lab 5:
 ###  Video: https://youtu.be/HeuBsYVjLXw
+###  Why the torques are different for different configurations?
+#### hrthrt
