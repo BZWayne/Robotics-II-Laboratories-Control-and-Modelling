@@ -7,4 +7,4 @@
 ## Lab 5:
 ###  Video: https://youtu.be/HeuBsYVjLXw
 ###  Why the torques are different for different configurations?
-#### The reason why the torques are different for different configurations is that the length of robotic arm is different. In the hold case, the length of links is longer than the home case, that is why torque in hold position is higher than the home position.
+#### The reason why the torques are different for different configurations is that the length of robotic arm is different. Based on the T is directly proportional to the length. In the hold case, the length of links is longer than the home case, that is why torque in hold position is higher than the home position.
