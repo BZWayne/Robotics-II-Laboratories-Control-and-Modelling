@@ -14,6 +14,6 @@
 #### Step 8:
 ![alt text](https://github.com/BZWayne/Robotics-II-Laboratory-Control-and-Modelling/blob/master/laboratory_5/step8.png?raw=true)
 #### Step 11: Error Feedback loop (with RNE)  
-![alt text](https://github.com/BZWayne/Robotics-II-Laboratory-Control-and-Modelling/blob/master/laboratory_5/step8.png?raw=true)
+![alt text](https://github.com/BZWayne/Robotics-II-Laboratory-Control-and-Modelling/blob/master/laboratory_5/step_11.png?raw=true)
 #### Step 12: Planar robot 
-![alt text](https://github.com/BZWayne/Robotics-II-Laboratory-Control-and-Modelling/blob/master/laboratory_5/step8.png?raw=true)
+![alt text](https://github.com/BZWayne/Robotics-II-Laboratory-Control-and-Modelling/blob/master/laboratory_5/step12.png?raw=true)
