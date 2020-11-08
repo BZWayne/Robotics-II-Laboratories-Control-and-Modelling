@@ -1,7 +1,7 @@
 # Lab 7
-
+## The goal of this lab is to decrease the error, so that end-effector will reach the point. Before untuned NN show 45.64%. The tuned accuracy is 26.06%. This happened by changing the value 512-256-128 with maxEpochs 20 and miniBatchSize 200.
 ### Initial Conditions:
-As we can observe, the error is 45.61%. 
+s we can observe, the error is 45.61%. 
 ![alt text](https://github.com/BZWayne/Robotics-II-Laboratory-Control-and-Modelling/blob/master/laboratory_7/screenshots/init.png) 
 The training of it looks as following:
 ![alt text](https://github.com/BZWayne/Robotics-II-Laboratory-Control-and-Modelling/blob/master/laboratory_7/screenshots/init_train.png)
