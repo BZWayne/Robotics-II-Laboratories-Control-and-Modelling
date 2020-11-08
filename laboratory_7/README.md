@@ -8,6 +8,6 @@ The training of it looks as following:
 
 ### The Best Tuned value:
 The architecture is 512-256-128 with maxEpochs 20 and miniBatchSize 200, the error is 26.06%:
-![alt text](https://github.com/BZWayne/Robotics-II-Laboratory-Control-and-Modelling/blob/master/laboratory_7/screenshots/512-256-128.png)
+![alt text](https://github.com/BZWayne/Robotics-II-Laboratory-Control-and-Modelling/blob/master/laboratory_7/screenshots/512-256-128-64.png)
 The training of it looks as following:
-![alt text](https://github.com/BZWayne/Robotics-II-Laboratory-Control-and-Modelling/blob/master/laboratory_7/screenshots/512-256-128_train.png)
+![alt text](https://github.com/BZWayne/Robotics-II-Laboratory-Control-and-Modelling/blob/master/laboratory_7/screenshots/512-256-128-64_train.png)
